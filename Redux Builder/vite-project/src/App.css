@@ -1,0 +1,31 @@
+.app {
+  text-align: center;
+  padding: 50px;
+  text-align: centerr ` ;
+ 
+}
+
+/* .app.light {
+  background-color: white;
+  color: black;
+}
+
+.app.dark {
+  background-color: black;
+  color: white;
+}
+
+button {
+  margin: 5px
+  padding: 10px 20px;
+  font-size: 16px;
+} */
+#root {
+  width: 900px;
+  height: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-weight: bold
+  
+}
